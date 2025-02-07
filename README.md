@@ -10,9 +10,6 @@ This repository contains an end-to-end pipeline for unsupervised anomaly detecti
 - [Usage](#usage)
 - [Code Structure](#code-structure)
 - [Visualizations](#visualizations)
-- [Interpretation](#interpretation)
-- [License](#license)
-- [Contact](#contact)
 
 ## Overview
 
